@@ -11,3 +11,7 @@ VLC-Qt库：一个在libVLC基础上结合了Qt框架的开源库。它提供了
 
 # VLC-Qt_1.1.0_win32_mingw
 编译好的库VLC-Qt
+
+# MoveWidget
+　　为了美观，经常需要对窗口标题栏，按钮进行自定义，因此常使用隐藏系统默认窗口边框选项，并使窗口能被随意拖动，效果图：</br>
+![](https://img-blog.csdnimg.cn/2020032812282072.gif)
